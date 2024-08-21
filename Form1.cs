@@ -41,7 +41,6 @@ namespace PlayMp3
                 item.SubItems.Add(path);
                 listMusic.Items.Add(item);
 
-                // Xóa dữ liệu đã nhập sau khi thêm vào ListView
                 txtName.Clear();
                 txtPath.Clear();
             }
@@ -55,11 +54,11 @@ namespace PlayMp3
         {
             if (listMusic.SelectedItems.Count > 0)
             {
-                string selectedPath = listMusic.SelectedItems[0].SubItems[2].Text; // Lấy đường dẫn từ dòng được chọn
+                string selectedPath = listMusic.SelectedItems[0].SubItems[2].Text; 
 
                 if (outputDevice != null)
                 {
-                    outputDevice.Stop(); // Dừng nếu đang phát nhạc khác
+                    outputDevice.Stop(); 
                 }
 
                 outputDevice = new WaveOutEvent();
@@ -83,11 +82,10 @@ namespace PlayMp3
 
         private void hScrollBar1_Scroll(object sender, ScrollEventArgs e)
         {
-
-                // Di chuyển đến vị trí trong nhạc tương ứng với giá trị của scrollbar
                 float percentage = (float)hScrollBar1.Value / hScrollBar1.Maximum;
                 audioFile.CurrentTime = TimeSpan.FromSeconds(percentage * audioFile.TotalTime.TotalSeconds);
 
         }
+
     }
 }

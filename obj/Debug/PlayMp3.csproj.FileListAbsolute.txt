@@ -34,3 +34,16 @@ D:\C# Project\PlayMp3\PlayMp3\bin\Debug\AxInterop.WMPLib.dll
 D:\C# Project\PlayMp3\PlayMp3\obj\Debug\Interop.WMPLib.dll
 D:\C# Project\PlayMp3\PlayMp3\obj\Debug\AxInterop.WMPLib.dll
 D:\C# Project\PlayMp3\PlayMp3\obj\Debug\PlayMp3.csproj.ResolveComReference.cache
+D:\C# Project\PlayMp3\PlayMp3\bin\Debug\PlayMp3.exe.manifest
+D:\C# Project\PlayMp3\PlayMp3\bin\Debug\PlayMp3.application
+D:\C# Project\PlayMp3\PlayMp3\obj\Debug\PlayMp3.exe.manifest
+D:\C# Project\PlayMp3\PlayMp3\obj\Debug\PlayMp3.application
+D:\C# Project\PlayMp3\PlayMp3\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\C# Project\PlayMp3\PlayMp3\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+D:\C# Project\PlayMp3\PlayMp3\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+D:\C# Project\PlayMp3\PlayMp3\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\C# Project\PlayMp3\PlayMp3\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\C# Project\PlayMp3\PlayMp3\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\C# Project\PlayMp3\PlayMp3\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\C# Project\PlayMp3\PlayMp3\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\C# Project\PlayMp3\PlayMp3\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
